@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "heo7Y7WTMJZp48wIgVfskeyfQA2t9rFSwP8OOBsEFBesbHsbPTUYjQidtOmaehtYS6wYee8K/z8YyuLzxmdj8Q==",
+  "success": true,
+  "projectFilePath": "D:\\UTH\\CNPM\\Project-KoiPool\\Project-KoiPool\\Project-KoiPool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

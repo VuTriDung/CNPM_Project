@@ -1,0 +1,43 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Login User";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login & Registration Form</title>
+    <!--- Custom CSS File --->
+    <link rel="stylesheet" href="~/css/Login.css">
+</head>
+<body>
+    <div class="container">
+        <input type="checkbox" id="check">
+        <div class="login form">
+            <header>Login</header>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <form asp-action="Login" asp-controller="Account">
+                <label for="chk" aria-hidden="true">Login</label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+
+                <!-- Đổi class thành 'button' để khớp với CSS -->
+                <button type="submit" class="button">Login</button>
+            </form>
+            <div class="signup">
+                <span class="signup">
+                    Don't have an account?
+                    <a asp-action="Create" asp-controller="Account">Signup</a>
+                </span>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

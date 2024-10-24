@@ -15,16 +15,16 @@
         <div class="login form">
             <header>Login</header>
 
-            <!-- Hiển thị Validation Summary -->
             @if (!ViewData.ModelState.IsValid)
             {
                 <div class="validation-summary-errors text-danger">
-                    @Html.ValidationSummary(true)
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
                 </div>
             }
 
             <form asp-action="Login" asp-controller="Account" method="post">
                 @Html.AntiForgeryToken()
+                <input type="hidden" asp-for="ReturnUrl" />
 
                 <div class="form-group">
                     <input asp-for="Username" class="form-control" placeholder="Username" />
@@ -36,9 +36,10 @@
                     <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
 
-
                 <button type="submit" class="button">Login</button>
             </form>
+
+
 
             <div class="signup">
                 <span class="signup">

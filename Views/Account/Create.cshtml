@@ -1,39 +1,48 @@
 ﻿@model KoiPool_Project.Models.UserModel
 @{
-    ViewData["Title"] = "Register User";
+    ViewData["Title"] = "Register";
 }
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration Form</title>
+    <title>Sign Up Form</title>
     <link rel="stylesheet" href="~/css/Login.css">
 </head>
 <body>
     <div class="container">
-        <div class="registration form">
-            <header>Register</header>
+        <div class="signup form">
+            <header>Signup</header>
+            @* Chỉ hiển thị các lỗi chung không phải required *@
+            @if (!ViewData.ModelState.IsValid && ViewData.ModelState.ErrorCount > 0)
+            {
+                <div class="validation-summary-errors text-danger">
+                    @foreach (var modelError in ViewData.ModelState.Values
+                   .SelectMany(v => v.Errors)
+                   .Select(e => e.ErrorMessage)
+                   .Where(msg => !msg.Contains("Vui lòng nhập"))
+                   .Distinct())
+                    {
+                        <p>@modelError</p>
+                    }
+                </div>
+            }
             <form asp-action="Create" asp-controller="Account" method="post">
                 @Html.AntiForgeryToken()
-                <div asp-validation-summary="All" class="text-danger"></div>
-
                 <div class="form-group">
-                    <input asp-for="Username" type="text" placeholder="Username" />
+                    <input asp-for="Username" class="form-control" placeholder="Username" />
                     <span asp-validation-for="Username" class="text-danger"></span>
                 </div>
-
                 <div class="form-group">
-                    <input asp-for="Email" type="email" placeholder="Email" />
+                    <input asp-for="Email" class="form-control" placeholder="Email" />
                     <span asp-validation-for="Email" class="text-danger"></span>
                 </div>
-
                 <div class="form-group">
-                    <input asp-for="Password" type="password" placeholder="Password" />
+                    <input asp-for="Password" class="form-control" type="password" placeholder="Password" />
                     <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
-
-                <button type="submit" class="button">Create Account</button>
+                <button type="submit">Signup</button>
             </form>
             <div class="signup">
                 <span class="signup">
@@ -43,7 +52,6 @@
             </div>
         </div>
     </div>
-
     @section Scripts {
         <script src="~/lib/jquery/dist/jquery.min.js"></script>
         <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>

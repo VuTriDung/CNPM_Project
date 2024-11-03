@@ -14,7 +14,7 @@
     height: 500px;
     background: red;
     overflow: hidden;
-    background: url("https://doc-08-2c-docs.googleusercontent.com/docs/securesc/68c90smiglihng9534mvqmq1946dmis5/fo0picsp1nhiucmc0l25s29respgpr4j/1631524275000/03522360960922298374/03522360960922298374/1Sx0jhdpEpnNIydS4rnN4kHSJtU1EyWka?e=view&authuser=0&nonce=gcrocepgbb17m&user=03522360960922298374&hash=tfhgbs86ka6divo3llbvp93mg4csvb38") no-repeat center/ cover;
+    background: url("https://doc-08-2c-docs.googleusercontent.com/docs/securesc/68c90smiglihng9534mvqmq1946dmis5/fo0picsp1nhiucmc0l25s29respgpr4j/1631524275000/03522360960922298374/03522360960922298374/1Sx0jhdpEpnNIydS4rnN4kHSJtU1EyWka?e=view&authuser=0&nonce=gcrocepgbb17m&user=03522360960922298374&hash=tfhgbs86ka6divo3llbvp93mg4csvb38") no-repeat center;
     border-radius: 10px;
     box-shadow: 5px 20px 50px #000;
 }
@@ -71,9 +71,9 @@ button {
     cursor: pointer;
 }
 
-    button:hover {
-        background: #6d44b8;
-    }
+button:hover {
+    background: #6d44b8;
+}
 
 .login {
     height: 460px;
@@ -83,18 +83,18 @@ button {
     transition: .8s ease-in-out;
 }
 
-    .login label {
-        color: #573b8a;
-        transform: scale(.6);
-    }
+.login label {
+    color: #573b8a;
+    transform: scale(.6);
+}
 
 #chk:checked ~ .login {
     transform: translateY(-500px);
 }
 
-    #chk:checked ~ .login label {
-        transform: scale(1);
-    }
+#chk:checked ~ .login label {
+    transform: scale(1);
+}
 
 #chk:checked ~ .signup label {
     transform: scale(.6);

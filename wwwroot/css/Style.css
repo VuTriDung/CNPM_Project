@@ -500,23 +500,3 @@ footer {
     color: #b6b1b1;
     font-size: 15px;
 }
-.text-danger {
-    color: #ff0000; /* Màu đỏ */
-    font-size: 14px;
-    display: block;
-    margin-top: 5px;
-    margin-bottom: 10px;
-}
-
-.validation-summary-errors {
-    color: #ff0000; /* Màu đỏ */
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ff0000;
-    border-radius: 4px;
-    background-color: #fff5f5;
-}
-
-.form-group {
-    margin-bottom: 15px;
-}

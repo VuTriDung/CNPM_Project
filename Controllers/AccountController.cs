@@ -1,8 +1,7 @@
 ﻿using KoiPool_Project.Models;
-using KoiPool_Project.Models.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-
+using KoiPool_Project.Models.ViewModels;
 namespace KoiPool_Project.Controllers
 {
     public class AccountController : Controller
@@ -21,9 +20,30 @@ namespace KoiPool_Project.Controllers
             _context = context;
         }
 
-        public IActionResult Login(string returnUrl = "")
+        public IActionResult Login(string returnUrl)
         {
-            return View(new LoginViewModel { ReturnUrl = returnUrl });
+               return View(new LoginViewModel { ReturnUrl = returnUrl });
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(LoginViewModel loginVM, string returnUrl = "")
+        {
+            if (ModelState.IsValid)
+            {
+                Microsoft.AspNetCore.Identity.SignInResult result =
+                    await _signInManager.PasswordSignInAsync(loginVM.Username, loginVM.Password, false, false);
+
+                if (result.Succeeded)
+                {
+                    //return !string.IsNullOrEmpty(loginVM.ReturnUrl)
+                    //    ? Redirect(loginVM.ReturnUrl)
+                    //    : RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Home");
+                }
+                ModelState.AddModelError("", "Tên đăng nhập hoặc mật khẩu không chính xác");
+            }
+            return View(loginVM);
         }
         public IActionResult Create()
         {
@@ -85,28 +105,6 @@ namespace KoiPool_Project.Controllers
             // Trả về view với các lỗi nếu có
             return View(user);
         }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Login(LoginViewModel loginVM, string returnUrl = "")
-        {
-            if (!ModelState.IsValid)
-            {
-                Microsoft.AspNetCore.Identity.SignInResult result = await _signInManager.PasswordSignInAsync(loginVM.Username, loginVM.Password, false, false);
-                if (result.Succeeded)
-                {
-                    return RedirectToAction("Index", "Home");
-                }
-                ModelState.AddModelError("", "Tài khoản hoặc mật khẩu không tồn tại");
-
-            }
-            return View(loginVM);
-        }
-
-
-
-
-
         // Phương thức kiểm tra kết nối database
         public IActionResult TestDbConnection()
         {

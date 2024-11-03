@@ -1,79 +1,55 @@
-using KoiPool_Project.Models;
+﻿using KoiPool_Project.Models;
+using KoiPool_Project.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-
-var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddDbContext<DataContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-// Add services to the container.
-builder.Services.AddControllersWithViews();
-
-
-builder.Services.AddIdentity<AppUserModel, IdentityRole>()
-    .AddEntityFrameworkStores<DataContext>()
-    .AddDefaultTokenProviders();
-
-builder.Services.Configure<IdentityOptions>(options =>
+internal class Program
 {
-    // Password settings.
-    options.Password.RequireDigit = true;
-    options.Password.RequireLowercase = true;
-    options.Password.RequireNonAlphanumeric = false;
-    options.Password.RequireUppercase = false;
-    options.Password.RequiredLength = 6;
-    //options.Password.RequiredUniqueChars = 1;
+    private static void Main(string[] args)
+    {
+        var builder = WebApplication.CreateBuilder(args);
 
-    // Lockout settings.
-    //options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
-    //options.Lockout.MaxFailedAccessAttempts = 5;
-    //options.Lockout.AllowedForNewUsers = true;
+        builder.Services.AddDbContext<DataContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-    // User settings.
-    //options.User.AllowedUserNameCharacters =
-    //"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
-    options.User.RequireUniqueEmail = true;
-});
-builder.Services.AddAuthentication(options =>
-{
-	options.DefaultScheme = IdentityConstants.ApplicationScheme;
-	options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
-});
+        builder.Services.AddIdentity<AppUserModel, IdentityRole>()
+            .AddEntityFrameworkStores<DataContext>()
+            .AddDefaultTokenProviders();
 
-var app = builder.Build();
+        builder.Services.AddControllersWithViews();
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-	app.UseExceptionHandler("/Home/Error");
-	// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-	app.UseHsts();
+        var app = builder.Build();
+
+        if (!app.Environment.IsDevelopment())
+        {
+            app.UseExceptionHandler("/Home/Error");
+            app.UseHsts();
+        }
+        else
+        {
+            app.UseDeveloperExceptionPage();
+        }
+
+        app.UseHttpsRedirection();
+        app.UseStaticFiles();
+        app.UseRouting();
+        app.UseAuthentication();
+        app.UseAuthorization();
+
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+        });
+
+        // Sử dụng chính xác lớp DataContext và SeedData
+        using (var scope = app.Services.CreateScope())
+        {
+            var context1 = scope.ServiceProvider.GetRequiredService<DataContext>();
+            SeedData.SeedingData(context1);
+        }
+
+        app.Run();
+    }
 }
-else
-{
-	app.UseDeveloperExceptionPage(); // Enables detailed error pages in Development
-}
-
-//app.UseHttpsRedirection();
-app.UseStaticFiles();
-
-app.UseRouting();
-app.UseAuthentication();
-app.UseAuthorization();
-
-
-
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllerRoute(
-        name: "areas",
-        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-
-    endpoints.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Home}/{action=Index}/{id?}");
-});
-
-app.Run();

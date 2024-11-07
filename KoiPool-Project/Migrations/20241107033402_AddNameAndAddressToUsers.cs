@@ -10,8 +10,20 @@ namespace KoiPool_Project.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "logins");
+            migrationBuilder.CreateTable(
+                name: "Histories",
+                columns: table => new
+                {
+                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Datetime = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Address = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Histories", x => x.Id);
+                });
 
             migrationBuilder.AddColumn<string>(
                 name: "Address",
@@ -31,6 +43,9 @@ namespace KoiPool_Project.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "Histories");
+
             migrationBuilder.DropColumn(
                 name: "Address",
                 table: "AspNetUsers");
@@ -38,18 +53,6 @@ namespace KoiPool_Project.Migrations
             migrationBuilder.DropColumn(
                 name: "Name",
                 table: "AspNetUsers");
-
-            migrationBuilder.CreateTable(
-                name: "logins",
-                columns: table => new
-                {
-                    LoginName = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_logins", x => x.LoginName);
-                });
         }
     }
 }

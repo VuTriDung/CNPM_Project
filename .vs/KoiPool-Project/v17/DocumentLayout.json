@@ -1,67 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\",
+  "WorkspaceRootPath": "D:\\UTH\\IT\\CNPM_Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\lenovo_pc\\downloads\\koi_cnpm\\koipool-project\\wwwroot\\js\\dichvu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\dichvu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\lenovo_pc\\downloads\\koi_cnpm\\koipool-project\\wwwroot\\css\\dichvu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\dichvu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\lenovo_pc\\downloads\\koi_cnpm\\koipool-project\\views\\home\\dichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\dichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\lenovo_pc\\downloads\\koi_cnpm\\koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_code\\koipool-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.logins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -74,8 +94,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -85,112 +113,193 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dichvu.js",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\wwwroot\\js\\dichvu.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\dichvu.js",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\wwwroot\\js\\dichvu.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\dichvu.js",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-09T09:22:13.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dichvu.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\wwwroot\\css\\dichvu.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\dichvu.css",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\wwwroot\\css\\dichvu.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\dichvu.css",
-              "ViewState": "AQIAANcCAAAAAAAAAAAuwP4CAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-09T09:21:43.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DichVu.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "ViewState": "AQIAACEBAAAAAAAAAAAgwCwBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T09:20:41.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Program.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Program.cs",
-              "RelativeToolTip": "KoiPool-Project\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Repository\\DataContext.cs",
+              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:05:38.19Z",
+              "WhenOpened": "2024-11-06T07:02:52.097Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20241107033402_AddNameAndAddressToUsers.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:34:02.821Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.json",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\appsettings.json",
+              "RelativeToolTip": "KoiPool-Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T06:05:45.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241107032815_History.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
-              "RelativeToolTip": "..\\..\\..\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ServiceModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ServiceModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ServiceModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ServiceModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ServiceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:28:15.554Z"
+              "WhenOpened": "2024-11-09T09:44:57.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20241107020601_RevisionHistory.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
-              "RelativeToolTip": "..\\..\\..\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\AppUserModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\AppUserModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\AppUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:06:02.076Z"
+              "WhenOpened": "2024-11-06T07:44:17.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Program.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Program.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Program.cs",
+              "RelativeToolTip": "KoiPool-Project\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:05:38.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeToolTip": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAANYAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T01:58:17.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:37:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\HistoryModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\HistoryModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\HistoryModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\HistoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:51:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\UserModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\UserModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:13:01.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:53.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonalProfileController.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:48:39.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241020021925_IdentityMigration.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:44:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241107033402_AddNameAndAddressToUsers.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:52:48.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:55:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "dbo.AspNetRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.AspNetRoles.sql",
@@ -199,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "dbo.logins.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.logins.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_1VSUAIK4_NGUYENDINHDUONG/QuanLyLS/True/SqlTable/dbo.logins.sql",
@@ -208,101 +317,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\UserModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "20241107020601_RevisionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107020601_RevisionHistory.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:18:38.51Z"
+              "WhenOpened": "2024-11-07T02:06:02.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "20241107032815_History.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\test\\KoiPool-Project\\Migrations\\20241107032815_History.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:18:34.648Z"
+              "WhenOpened": "2024-11-07T03:28:15.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppUserModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\AppUserModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\AppUserModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\AppUserModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\AppUserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:44:17.426Z"
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:55:27.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241020021925_IdentityMigration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAAwFsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:44:04.285Z"
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:55:30.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Repository\\DataContext.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\DataContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Repository\\DataContext.cs",
-              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:02:52.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\appsettings.json",
-              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\appsettings.json",
-              "RelativeToolTip": "KoiPool-Project\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T06:05:45.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HistoryModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\HistoryModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\HistoryModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\KOI_CNPM\\KoiPool-Project\\Models\\HistoryModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\HistoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:03:53.644Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1217,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Code\\KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T03:55:33.855Z"
             }
           ]
         }

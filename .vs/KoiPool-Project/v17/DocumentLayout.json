@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UTH\\IT\\CNPM_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project\\koipool-project\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project\\koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -175,7 +179,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -199,33 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Repository\\DataContext.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\DataContext.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Repository\\DataContext.cs*",
-              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Repository\\DataContext.cs",
+              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:45:03.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\appsettings.json",
-              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.json",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\appsettings.json",
-              "RelativeToolTip": "KoiPool-Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T13:56:05.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Program.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Program.cs",
@@ -237,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RequestModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\RequestModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\RequestModel.cs",
@@ -245,12 +236,11 @@
               "RelativeToolTip": "KoiPool-Project\\Models\\RequestModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:32:47.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:32:47.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RequestDetailModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\RequestDetailModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\RequestDetailModel.cs",
@@ -258,25 +248,49 @@
               "RelativeToolTip": "KoiPool-Project\\Models\\RequestDetailModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:32:45.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:32:45.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ServiceModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ServiceModel.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
               "RelativeToolTip": "KoiPool-Project\\Models\\ServiceModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:32:47.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Services\\ServiceService.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Services\\ServiceService.cs",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Services\\ServiceService.cs*",
+              "RelativeToolTip": "KoiPool-Project\\Services\\ServiceService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:11:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.json",
+              "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\appsettings.json",
+              "RelativeToolTip": "KoiPool-Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:56:05.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppRolesController.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
@@ -288,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationUserModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
@@ -300,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20241109094312_Authorize.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
@@ -312,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
@@ -324,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
@@ -336,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\UserModel.cs",
@@ -348,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
@@ -360,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20241107033402_AddNameAndAddressToUsers.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
@@ -372,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20241020021925_IdentityMigration.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
@@ -384,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HistoryModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\HistoryModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\HistoryModel.cs",
@@ -396,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\EmployeeModel.cs",
@@ -408,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CustomerModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\CustomerModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\CustomerModel.cs",
@@ -420,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DichVu.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
@@ -432,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ErrorViewModel.cs",
@@ -444,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\CustomerController.cs",
@@ -456,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ViewStart.cshtml",
@@ -468,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\AccountController.cs",
@@ -480,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\.gitignore",
               "RelativeDocumentMoniker": "KoiPool-Project\\.gitignore",
@@ -492,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "KoiPool-Project\\ScaffoldingReadMe.txt",
@@ -504,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AppUserModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\AppUserModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\AppUserModel.cs",
@@ -516,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "PersonalProfileController.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
@@ -528,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20241020021925_IdentityMigration.Designer.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
@@ -540,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Profile.cshtml",
@@ -552,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Login.cshtml",
@@ -564,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "KoiPool-Project.csproj",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\KoiPool-Project.csproj",
               "RelativeDocumentMoniker": "KoiPool-Project\\KoiPool-Project.csproj",
@@ -576,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
@@ -588,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
@@ -600,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
@@ -612,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\Error.cshtml",
@@ -624,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\appsettings.Development.json",
               "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.Development.json",
@@ -636,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "script.js",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\script.js",
@@ -648,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KoiPool-Project\\Properties\\launchSettings.json",
@@ -660,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "README.md",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\README.md",
               "RelativeDocumentMoniker": "KoiPool-Project\\README.md",
@@ -672,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
@@ -684,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "KoiPool-Project.AssemblyInfo.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
@@ -696,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "KoiPool-Project.RazorAssemblyInfo.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",

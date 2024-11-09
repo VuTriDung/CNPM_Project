@@ -1,6 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-public class CustomerModel
+﻿using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
+public class CustomerModel : IdentityUser
 {
+    [Key]
     public int CustomerId { get; set; }
     public string Name { get; set; }
     public string PhoneNumber { get; set; }

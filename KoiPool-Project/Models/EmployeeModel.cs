@@ -3,6 +3,7 @@ namespace KoiPool_Project.Models
 {
     public class EmployeeModel
     {
+        [Key]
         public int EmployeeId { get; set; }
         public string Name { get; set; }
         public string PhoneNumber { get; set; }

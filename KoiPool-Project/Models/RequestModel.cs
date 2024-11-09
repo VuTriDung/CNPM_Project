@@ -3,6 +3,7 @@ namespace KoiPool_Project.Models
 {
     public class RequestModel
     {
+        [Key]
         public int RequestId { get; set; }
         public int CustomerId { get; set; }
         public string RequestType { get; set; } // "Thi công", "Bảo dưỡng"

@@ -17,6 +17,10 @@ namespace KoiPool_Project.Controllers
         {
             return View();
         }
+        public IActionResult BaoGia()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

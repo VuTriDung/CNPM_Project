@@ -46,14 +46,14 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#">Trang Chủ</a></li>
+                <li><a onclick="location.href='@Url.Action("Index", "Home")'">Trang Chủ</a></li>
                 <li><a href="#">Giới Thiệu</a></li>
                 <li><a href="#">Dự Án</a></li>
                 <!-- Dropdown for Dịch vụ -->
                 <li class="navbar-dropdown">
-                    <a href="#" class="dropdown-toggler">Dịch vụ<i class="fa fa-angle-down"></i></a>
+                    <a asp-action="DichVu" asp-controller="Home" class="dropdown-toggler">Dịch vụ<i class="fa fa-angle-down"></i></a>
                     <ul class="dropdown">
-                        <li><a href="#">Thiết kế và thi công hồ cá KOI</a></li>
+                        <li><a asp-action="DichVu" asp-controller="Home">Thiết kế và thi công hồ cá KOI</a></li>
                     </ul>
                 </li>
                 <!-- Dropdown for Báo Giá -->

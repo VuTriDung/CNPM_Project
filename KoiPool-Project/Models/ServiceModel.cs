@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace KoiPool_Project.Models
 {
-    public class Service
+    public class ServiceModel
     {
         public int ServiceId { get; set; }
         public string ServiceName { get; set; }

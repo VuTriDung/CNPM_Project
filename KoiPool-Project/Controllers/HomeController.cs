@@ -12,7 +12,11 @@ namespace KoiPool_Project.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult LienHe()
+        {
+            return View();
+        }
+  
         public IActionResult BaoGia()
         {
             return View();

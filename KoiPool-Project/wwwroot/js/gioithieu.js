@@ -41,4 +41,17 @@ document.querySelectorAll('.navbar-dropdown').forEach(dropdown => {
         dropdownMenu.classList.remove('show');
     });
 });
-
+/*Phần chuyển động trong trang giới thiệu*/
+document.addEventListener("DOMContentLoaded", function () {
+    const fadeElements = document.querySelectorAll(".fade-in");
+    function handleScroll() {
+        fadeElements.forEach(element => {
+            const rect = element.getBoundingClientRect();
+            if (rect.top < window.innerHeight - 100) {
+                element.classList.add("active");
+            }
+        });
+    }
+    window.addEventListener("scroll", handleScroll);
+    handleScroll();
+});

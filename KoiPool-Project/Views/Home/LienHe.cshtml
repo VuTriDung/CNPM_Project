@@ -20,7 +20,7 @@
         <div class="top-bar-right">
 
             <a href="#"><i class="fa fa-file-text-o"></i> Điều khoản chính sách</a> |
-            <a href="#"><i class="fa fa-shopping-cart"></i> Giỏ hàng</a>
+            <a asp-action="QuanLi" asp-controller="Home"><i class="fa fa-shopping-cart"></i> Giỏ hàng</a>
             @if (User.Identity?.IsAuthenticated ?? false)
             {
                 <a asp-controller="PersonalProfile" asp-action="Index" style="cursor: pointer"><i class="fa-solid fa-user"></i>@User.Identity.Name</a>

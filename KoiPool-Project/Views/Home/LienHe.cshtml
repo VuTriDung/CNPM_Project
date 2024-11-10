@@ -84,24 +84,32 @@
         <section class="bieu-mau-lien-he animated fade-in-up">
             <div class="khung-bieu-mau">
                 <h2>Đăng ký để nhận báo giá ngay hôm nay</h2>
-                <form>
-                    <input type="text" placeholder="Họ tên*" required>
-                    <input type="tel" placeholder="Số điện thoại*" required>
-                    <input type="text" placeholder="Địa chỉ*" required>
-                    <input type="email" placeholder="Email*" required>
-                    <input type="text" placeholder="Diện tích sân vườn (m2)*" required>
-                    <select required>
+
+                <!-- Thay thế phần form hiện tại bằng form bên dưới -->
+                @model KoiPool_Project.Models.RequestModel
+
+                <form asp-action="SubmitRequest" asp-controller="Request" method="post">
+                    <input type="text" asp-for="FullName" placeholder="Họ tên*" required />
+                    <input type="tel" asp-for="PhoneNumber" placeholder="Số điện thoại*" required />
+                    <input type="text" asp-for="Address" placeholder="Địa chỉ*" required />
+                    <input type="email" asp-for="Email" placeholder="Email*" required />
+                    <input type="text" asp-for="GardenArea" placeholder="Diện tích sân vườn (m2)*" required />
+                    <select asp-for="ServiceType" required>
                         <option value="" disabled selected>Chọn dịch vụ*</option>
                         <option value="thi-cong">Thi công</option>
                         <option value="thiet-ke">Bảo dưỡng</option>
                         <option value="tu-van">Tư vấn</option>
                     </select>
-                    <textarea placeholder="Nội dung yêu cầu"></textarea>
-                    <button type="submit">Gửi yêu cầu</button>
+                    <textarea asp-for="RequestContent" placeholder="Nội dung yêu cầu"></textarea>
+                    <div>
+                        <button type="submit">Gửi yêu cầu</button>
+                    </div>
                 </form>
+
                 <textarea class="phan-hoi" placeholder="Đánh giá"></textarea>
             </div>
         </section>
+
 
         <!-- Phần Thông Tin Liên Hệ -->
         <section class="thong-tin-lien-he animated fade-in-left">

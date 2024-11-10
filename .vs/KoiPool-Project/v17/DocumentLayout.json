@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\KOI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -27,28 +31,28 @@
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\duan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\css\\lienhe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\lienhe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\downloads\\koi\\koipool-project\\wwwroot\\js\\baogia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -247,37 +247,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "DuAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAADwvxkBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T09:21:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GioiThieu.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
-              "ViewState": "AgIAAGIAAAAAAAAAAADwv84AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAK0AAAAAAAAAAADwv84AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T08:42:12.988Z",
+              "WhenOpened": "2024-11-10T09:21:28.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "duan.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\duan.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\duan.js",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\duan.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\duan.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-10T09:18:22.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "gioithieu.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
               "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
-              "ViewState": "AgIAABkAAAAAAAAAAAA9wDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T08:39:55.552Z",
+              "WhenOpened": "2024-11-10T09:18:02.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "duan.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\duan.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\duan.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\duan.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\duan.css",
+              "ViewState": "AgIAAIsCAAAAAAAAAAAmwK4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T08:57:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "gioithieu.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\gioithieu.css",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
@@ -285,51 +324,12 @@
               "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
               "ViewState": "AgIAAJ4CAAAAAAAAAAAmwMECAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T08:39:03.539Z",
+              "WhenOpened": "2024-11-10T08:57:06.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "duan.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\duan.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\duan.js",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\duan.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\duan.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T08:37:52.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "duan.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\duan.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\duan.css",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\duan.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\duan.css",
-              "ViewState": "AgIAAFwBAAAAAAAAAAAmwK4CAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T08:36:24.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DuAn.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "ViewState": "AgIAAOMAAAAAAAAAAADwv/EAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T08:26:15.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\Style.css",
@@ -366,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DichVu.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
@@ -379,33 +379,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "KoiPool-Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T11:19:41.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T17:12:58.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "lienhe.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\lienhe.js",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\lienhe.js",
@@ -418,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "lienhe.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\lienhe.css",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\lienhe.css",
@@ -430,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LienHe.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\LienHe.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\LienHe.cshtml",
@@ -442,19 +442,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "blog.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\blog.js",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\blog.js",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\blog.js",
               "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\blog.js",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGUAAAALAAAA",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T00:11:32.136Z"
+              "WhenOpened": "2024-11-10T00:11:32.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "blog.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\css\\blog.css",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\blog.css",
@@ -467,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Blog.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\Blog.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Blog.cshtml",
@@ -491,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BaoGia.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
@@ -683,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
@@ -708,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PersonalProfileController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
@@ -937,13 +938,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\script.js",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\KOI\\KoiPool-Project\\wwwroot\\js\\script.js",
               "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\script.js",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-10-23T15:10:43.149Z",
               "EditorCaption": ""

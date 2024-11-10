@@ -22,14 +22,21 @@
             <a href="#"><i class="fa fa-shopping-cart"></i> Giỏ hàng</a>
             @if (User.Identity?.IsAuthenticated ?? false)
             {
-                <a asp-controller="PersonalProfile" asp-action="Index" style="cursor: pointer"><i class="fa-solid fa-user"></i>@User.Identity.Name</a>
-                <a asp-controller="Account" asp-action="Logout"><i class="fa-solid fa-right-from-bracket"></i>Đăng xuất</a>
-
+                <a asp-controller="PersonalProfile" asp-action="Index" style="cursor: pointer">
+                    <i class="fa-solid fa-user"></i> @User.Identity.Name
+                </a>
+                <a asp-controller="Account" asp-action="Logout" style="cursor: pointer">
+                    <i class="fa-solid fa-right-from-bracket"></i> Đăng xuất
+                </a>
             }
             else
             {
-                <a asp-controller="Account" asp-action="Login"><i class="fa fa-user"></i> Đăng Nhập</a>
-                <a asp-controller="Account" asp-action="Create"><i class="fa fa-user-plus"></i> Đăng Ký</a>
+                <a asp-controller="Account" asp-action="Login" style="cursor: pointer">
+                    <i class="fa fa-user"></i> Đăng Nhập
+                </a>
+                <a asp-controller="Account" asp-action="Create" style="cursor: pointer">
+                    <i class="fa fa-user-plus"></i> Đăng Ký
+                </a>
             }
             <a href="#"><i class="fab fa-facebook facebook-icon"></i></a>
             <a href="#"><i class="fab fa-twitter twitter-icon"></i></a>

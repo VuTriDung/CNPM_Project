@@ -43,6 +43,13 @@ builder.Services.ConfigureApplicationCookie(options =>
 // Add MVC
 builder.Services.AddControllersWithViews();
 
+
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(option => {
+    option.IdleTimeout = TimeSpan.FromMinutes(10);
+    option.Cookie.IsEssential = true;
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline
@@ -89,6 +96,9 @@ app.UseRouting();
 app.UseAuthentication();
 
 app.UseAuthorization();
+
+app.UseSession();
+
 
 app.UseEndpoints(endpoints =>
 {

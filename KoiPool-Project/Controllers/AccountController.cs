@@ -1,4 +1,4 @@
-﻿using KoiPool_Project.Models;
+using KoiPool_Project.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using KoiPool_Project.Models.ViewModels;

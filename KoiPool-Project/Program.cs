@@ -5,13 +5,6 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add logging
-builder.Services.AddLogging(logging =>
-{
-    logging.AddConsole();
-    logging.AddDebug();
-});
-
 // Add DbContext
 builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -28,39 +21,23 @@ builder.Services.AddIdentity<AppUserModel, IdentityRole>(options =>
 
     // User settings
     options.User.RequireUniqueEmail = true;
-    options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
 
     // SignIn settings
-    options.SignIn.RequireConfirmedEmail = false;
     options.SignIn.RequireConfirmedAccount = false;
+    options.SignIn.RequireConfirmedEmail = false;
 })
 .AddEntityFrameworkStores<DataContext>()
-.AddDefaultTokenProviders()
-.AddDefaultUI();
+.AddDefaultTokenProviders();
 
-// Configure Cookie Policy
+// Configure Cookie Authentication
 builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = "/Account/Login";
     options.LogoutPath = "/Account/Logout";
     options.AccessDeniedPath = "/Account/AccessDenied";
+    options.ExpireTimeSpan = TimeSpan.FromHours(24);
     options.SlidingExpiration = true;
-    options.ExpireTimeSpan = TimeSpan.FromHours(1);
-});
-
-// Add Authentication
-builder.Services.AddAuthentication(options =>
-{
-    options.DefaultScheme = IdentityConstants.ApplicationScheme;
-    options.DefaultSignInScheme = IdentityConstants.ExternalScheme;
-    options.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
-})
-.AddCookie(options =>
-{
     options.Cookie.HttpOnly = true;
-    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
-    options.Cookie.SameSite = SameSiteMode.Lax;
 });
 
 // Add MVC
@@ -79,7 +56,7 @@ else
     app.UseDeveloperExceptionPage();
 }
 
-// Ensure database is created and migrations are applied
+// Ensure database exists and migrations are applied
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
@@ -91,12 +68,11 @@ using (var scope = app.Services.CreateScope())
 
         context.Database.Migrate();
 
-        // Seed default roles
+        // Seed default roles if they don't exist
         if (!roleManager.Roles.Any())
         {
             await roleManager.CreateAsync(new IdentityRole("Admin"));
             await roleManager.CreateAsync(new IdentityRole("User"));
-            await roleManager.CreateAsync(new IdentityRole("Manager"));
         }
     }
     catch (Exception ex)
@@ -107,16 +83,18 @@ using (var scope = app.Services.CreateScope())
 }
 
 app.UseStaticFiles();
+
 app.UseRouting();
 
 app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
         name: "areas",
-        pattern: "{area:exists}/{controller=AppRoles}/{action=Index}/{id?}");
+        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
     endpoints.MapControllerRoute(
         name: "default",

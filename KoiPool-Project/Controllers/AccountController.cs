@@ -105,6 +105,13 @@ namespace KoiPool_Project.Controllers
             // Trả về view với các lỗi nếu có
             return View(user);
         }
+
+
+
+
+
+
+
         // Phương thức kiểm tra kết nối database
         public IActionResult TestDbConnection()
         {

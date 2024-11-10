@@ -21,6 +21,14 @@ namespace KoiPool_Project.Controllers
         {
             return View();
         }
+        public IActionResult Blog()
+        {
+            return View();
+        }
+        public IActionResult LienHe()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

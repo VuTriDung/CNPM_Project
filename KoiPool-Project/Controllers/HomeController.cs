@@ -29,6 +29,42 @@ namespace KoiPool_Project.Controllers
         {
             return View();
         }
+        public IActionResult Baroque()
+        {
+            return View();
+        }
+        public IActionResult Nganhthietke()
+        {
+            return View();
+        }
+        public IActionResult Nganhkientruc()
+        {
+            return View();
+        }
+        public IActionResult Nhachoi()
+        {
+            return View();
+        }
+        public IActionResult Cafe()
+        {
+            return View();
+        }
+        public IActionResult Vuon()
+        {
+            return View();
+        }
+        public IActionResult Thongtin()
+        {
+            return View();
+        }
+        public IActionResult Koicafe()
+        {
+            return View();
+        }
+        public IActionResult Cayxanh()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

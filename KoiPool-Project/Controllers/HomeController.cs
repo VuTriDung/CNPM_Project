@@ -73,6 +73,14 @@ namespace KoiPool_Project.Controllers
         {
             return View();
         }
+        public IActionResult QuanLi()
+        {
+            return View();
+        }
+        public IActionResult LichSu()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

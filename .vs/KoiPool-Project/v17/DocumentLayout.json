@@ -1,280 +1,320 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UTH\\IT\\CNPM_Project_2\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241110161307_Checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiPool-Project\\Migrations\\20241110161307_Checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\20241110130025_requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241110130025_requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\personalprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241107033402_addnameandaddresstousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\20241110130025_requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241110130025_requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241020021925_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\personalprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\personalprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\personalprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\koicafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\koicafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\koicafe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\lichsu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\lichsu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\lichsu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\historymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\20241109094312_authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\20241109094312_authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241109094312_authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\duan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\gioithieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\duan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\duan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\duan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\gioithieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\duan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\baroque.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\baroque.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\baroque.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\vuon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\vuon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\vuon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\nhachoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\nhachoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\nhachoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\nganhthietke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\nganhthietke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\nganhthietke.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\nganhkientruc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\nganhkientruc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\nganhkientruc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\dichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\dichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\dichvu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\baroque.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\baroque.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\baroque.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\baroque.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\baroque.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\baroque.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\home\\baogia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\home\\baogia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\home\\baogia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\lienhe.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\lienhe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\lienhe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\lienhe.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\blog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\js\\baogia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\js\\baogia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\js\\baogia.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\wwwroot\\css\\baogia.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\wwwroot\\css\\baogia.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\wwwroot\\css\\baogia.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\areas\\admin\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\areas\\admin\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\areas\\admin\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\areas\\admin\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\areas\\admin\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\areas\\admin\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\areas\\admin\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\areas\\admin\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\areas\\admin\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\migrations\\20241020021925_identitymigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\migrations\\20241020021925_identitymigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\migrations\\20241020021925_identitymigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\koipool-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\koipool-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\koipool-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|d:\\uth\\it\\cnpm_project_2\\koipool-project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|c:\\users\\admin\\onedrive\\\u56FE\u7247\\m\u00E1y t\u00EDnh\\push\\koipool-project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{125A9A2E-3E19-4C0B-B4DC-0855262D45B6}|KoiPool-Project\\KoiPool-Project.csproj|solutionrelative:koipool-project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
@@ -306,16 +346,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -323,6 +355,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -334,39 +374,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241107033402_AddNameAndAddressToUsers.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "20241110161307_Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241110161307_Checkout.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241110161307_Checkout.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241110161307_Checkout.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241110161307_Checkout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:31:19.454Z",
+              "WhenOpened": "2024-11-10T16:13:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T16:09:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Repository\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Repository\\SessionExtensions.cs",
+              "RelativeToolTip": "KoiPool-Project\\Repository\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:07:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:05:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:04:31.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\OrderModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:03:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ProductModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:03:21.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\CartModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:30:54.339Z",
+              "WhenOpened": "2024-11-10T16:02:32.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AppUserModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\AppUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\AppUserModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\AppUserModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\AppUserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\AppUserModel.cs",
               "RelativeToolTip": "KoiPool-Project\\Models\\AppUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T03:54:29.554Z",
               "EditorCaption": ""
@@ -374,890 +492,969 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:28:48.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Program.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Program.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Program.cs",
-              "RelativeToolTip": "KoiPool-Project\\Program.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:25:04.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LienHe.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\LienHe.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\LienHe.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\LienHe.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\LienHe.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGEAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T00:16:07.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Repository\\DataContext.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\DataContext.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Repository\\DataContext.cs",
-              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:45:03.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241110130025_Requests.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T13:00:26.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:37:59.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241020021925_IdentityMigration.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:38:01.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RequestController.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\RequestController.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\RequestController.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\RequestController.cs",
-              "RelativeToolTip": "KoiPool-Project\\Controllers\\RequestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:45:50.997Z",
+              "WhenOpened": "2024-11-09T11:30:54.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "PersonalProfileController.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
-              "RelativeToolTip": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T08:13:47.2Z",
+              "WhenOpened": "2024-11-10T16:01:36.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "KoiPool-Project\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:19:41.969Z",
+              "WhenOpened": "2024-11-10T16:00:37.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "KoiPool-Project\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwH8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T03:57:59.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\appsettings.json",
               "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.json",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\appsettings.json",
               "RelativeToolTip": "KoiPool-Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-23T13:56:05.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241107033402_AddNameAndAddressToUsers.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241107033402_AddNameAndAddressToUsers.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:31:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:28:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Program.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Program.cs",
+              "RelativeToolTip": "KoiPool-Project\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAABBwGcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:25:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LienHe.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\LienHe.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\LienHe.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\LienHe.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\LienHe.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAABBwGEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T00:16:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Repository\\DataContext.cs",
+              "RelativeToolTip": "KoiPool-Project\\Repository\\DataContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:45:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241110130025_Requests.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241110130025_Requests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABBwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:00:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:37:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241020021925_IdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:38:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\RequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:45:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonalProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\PersonalProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:13:47.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:19:41.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:57:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\PersonalProfile\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-26T08:14:13.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:18:28.279Z"
+              "WhenOpened": "2024-11-10T13:18:28.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "LichSu.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\LichSu.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\LichSu.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\LichSu.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\LichSu.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\LichSu.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Home\\LichSu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:18:23.765Z"
+              "WhenOpened": "2024-11-10T13:18:23.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\UserModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\UserModel.cs",
               "RelativeToolTip": "KoiPool-Project\\Models\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:28:55.623Z"
+              "WhenOpened": "2024-11-09T08:28:55.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "HistoryModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\HistoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\HistoryModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\HistoryModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\HistoryModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\HistoryModel.cs",
               "RelativeToolTip": "KoiPool-Project\\Models\\HistoryModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:32:45.118Z"
+              "WhenOpened": "2024-11-09T09:32:45.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "RequestModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\RequestModel.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Models\\RequestModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Models\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Models\\RequestModel.cs",
               "RelativeToolTip": "KoiPool-Project\\Models\\RequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:32:47.06Z"
+              "WhenOpened": "2024-11-09T09:32:47.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "Koicafe.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Koicafe.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-10T13:18:28.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "20241109094312_Authorize.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
               "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
               "RelativeToolTip": "KoiPool-Project\\Migrations\\20241109094312_Authorize.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:43:12.707Z"
+              "WhenOpened": "2024-11-09T09:43:12.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwCcAAAANAAAA",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T17:12:58.443Z"
+              "WhenOpened": "2024-11-09T17:12:58.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Create.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Create.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Create.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Create.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "ViewState": "AgIAADoAAAAAAAAAAABBwAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:48:24.453Z"
+              "WhenOpened": "2024-11-10T12:48:24.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 81,
               "Title": "ServiceModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
-              "RelativeDocumentMoniker": "..\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
-              "RelativeToolTip": "..\\CNPM_Project\\KoiPool-Project\\Models\\ServiceModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:32:47.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:30:15.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T15:03:48.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "duan.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\duan.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\duan.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\duan.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\duan.css",
-              "ViewState": "AgIAAI0CAAAAAAAAAAAcwK4CAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T09:58:08.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "gioithieu.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\gioithieu.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\gioithieu.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
-              "ViewState": "AgIAAKACAAAAAAAAAAAcwMECAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T09:57:56.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AppRolesController.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
-              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAIwIUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:35:41.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Thongtin.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:48:35.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DuAn.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T09:59:18.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "gioithieu.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T09:58:24.722Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "duan.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\duan.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\duan.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\duan.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\duan.js",
-              "ViewState": "AgIAACUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T09:58:37.252Z"
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:30:15.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "GioiThieu.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAswM4AAAAHAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T09:58:58.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Style.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\Style.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\Style.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\Style.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\Style.css",
-              "ViewState": "AgIAAGADAAAAAAAAAAAcwIEDAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T10:04:02.18Z"
+              "WhenOpened": "2024-10-23T15:03:48.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "Nganhkientruc.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:45:36.628Z"
+              "Title": "duan.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\duan.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\duan.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\duan.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\duan.css",
+              "ViewState": "AgIAAI0CAAAAAAAAAAAcwK4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T09:58:08.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 40,
+              "Title": "gioithieu.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\gioithieu.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\gioithieu.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\gioithieu.css",
+              "ViewState": "AgIAAKACAAAAAAAAAAAcwMECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T09:57:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:35:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Thongtin.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Thongtin.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAABBwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:48:35.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DuAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DuAn.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T09:59:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "gioithieu.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\gioithieu.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\gioithieu.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-10T09:58:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "duan.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\duan.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\duan.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\duan.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\duan.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-10T09:58:37.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\GioiThieu.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAswM4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T09:58:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\Style.css",
+              "ViewState": "AgIAAGADAAAAAAAAAAAcwIEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T10:04:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Nganhkientruc.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nganhkientruc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:45:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
               "Title": "20241110093226_Service.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241110093226_Service.cs",
-              "RelativeDocumentMoniker": "..\\CNPM_Project\\KoiPool-Project\\Migrations\\20241110093226_Service.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Migrations\\20241110093226_Service.cs",
-              "RelativeToolTip": "..\\CNPM_Project\\KoiPool-Project\\Migrations\\20241110093226_Service.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T09:32:26.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "Baroque.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Baroque.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Baroque.cshtml",
               "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Baroque.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Baroque.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Baroque.cshtml",
               "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Baroque.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAcAAAA",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwBcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:44:03.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Nhachoi.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:46:33.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Nganhthietke.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:44:54.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DichVu.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
-              "ViewState": "AQIAABYBAAAAAAAAAAAcwFIBAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T09:32:01.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Vuon.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Vuon.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Vuon.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Vuon.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Vuon.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T01:47:50.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "baroque.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\baroque.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\baroque.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\baroque.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\baroque.js",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAE8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T01:51:33.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "baroque.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\baroque.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\baroque.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\baroque.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\baroque.css",
-              "ViewState": "AQIAABQBAAAAAAAAAAAswDEBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T01:50:44.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "lienhe.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\lienhe.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\lienhe.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\lienhe.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\lienhe.js",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwDsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T00:17:50.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "lienhe.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\lienhe.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\lienhe.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\lienhe.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\lienhe.css",
-              "ViewState": "AQIAAIkCAAAAAAAAAAAswKYCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T00:16:47.273Z"
+              "WhenOpened": "2024-11-10T01:44:03.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "blog.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\blog.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\blog.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\blog.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\blog.js",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-10T00:11:32.136Z"
+              "Title": "Nhachoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nhachoi.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAABBwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:46:33.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
-              "Title": "blog.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\blog.css",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\blog.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\blog.css",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\blog.css",
-              "ViewState": "AQIAAEoCAAAAAAAAAAAswGcCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-10T00:10:47.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Blog.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Blog.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Blog.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\Blog.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Blog.cshtml",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJcAAAASAAAA",
+              "Title": "Nganhthietke.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Nganhthietke.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAABBwBkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T00:09:58.898Z"
+              "WhenOpened": "2024-11-10T01:44:54.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "baogia.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\baogia.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\baogia.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\baogia.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\baogia.js",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwDkAAAADAAAA",
+              "DocumentIndex": 52,
+              "Title": "DichVu.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\DichVu.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\DichVu.cshtml",
+              "ViewState": "AgIAABYBAAAAAAAAAAAcwFIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T09:32:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Vuon.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Vuon.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Vuon.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Vuon.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Vuon.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T01:47:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "baroque.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\baroque.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\baroque.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\baroque.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\baroque.js",
+              "ViewState": "AgIAADIAAAAAAAAAAABBwE8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-09T17:46:53.823Z"
+              "WhenOpened": "2024-11-10T01:51:33.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "BaoGia.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAABAAAAAiAAAA",
+              "DocumentIndex": 54,
+              "Title": "baroque.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\baroque.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\baroque.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\baroque.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\baroque.css",
+              "ViewState": "AgIAABQBAAAAAAAAAAAswDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T01:50:44.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "lienhe.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\lienhe.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\lienhe.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\lienhe.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\lienhe.js",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-10T00:17:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "lienhe.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\lienhe.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\lienhe.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\lienhe.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\lienhe.css",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAswKYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T00:16:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "blog.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\blog.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\blog.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\blog.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\blog.js",
+              "ViewState": "AgIAAEgAAAAAAAAAAABBwGUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-10T00:11:32.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "blog.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\blog.css",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\blog.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\blog.css",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\blog.css",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAswGcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T00:10:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAABBwJcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T17:45:17.764Z"
+              "WhenOpened": "2024-11-10T00:09:58.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 61,
+              "Title": "baogia.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\baogia.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\baogia.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\baogia.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\baogia.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-09T17:46:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaoGia.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Home\\BaoGia.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAABBwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T17:45:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
               "Title": "RequestDetailModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\RequestDetailModel.cs",
-              "RelativeDocumentMoniker": "..\\CNPM_Project\\KoiPool-Project\\Models\\RequestDetailModel.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\RequestDetailModel.cs",
-              "RelativeToolTip": "..\\CNPM_Project\\KoiPool-Project\\Models\\RequestDetailModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:32:45.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 62,
               "Title": "baogia.css",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\baogia.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\baogia.css",
               "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\css\\baogia.css",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\css\\baogia.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\css\\baogia.css",
               "RelativeToolTip": "KoiPool-Project\\wwwroot\\css\\baogia.css",
-              "ViewState": "AQIAAOMCAAAAAAAAAADwvwIDAAAAAAAA",
+              "ViewState": "AgIAAOMCAAAAAAAAAADwvwIDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-09T17:46:02.973Z"
+              "WhenOpened": "2024-11-09T17:46:02.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 84,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "..\\CNPM_Project\\KoiPool-Project\\Models\\EmployeeModel.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\EmployeeModel.cs",
-              "RelativeToolTip": "..\\CNPM_Project\\KoiPool-Project\\Models\\EmployeeModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:31:44.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 85,
               "Title": "CustomerModel.cs",
               "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\CustomerModel.cs",
-              "RelativeDocumentMoniker": "..\\CNPM_Project\\KoiPool-Project\\Models\\CustomerModel.cs",
               "ToolTip": "D:\\UTH\\IT\\CNPM_Project\\KoiPool-Project\\Models\\CustomerModel.cs",
-              "RelativeToolTip": "..\\CNPM_Project\\KoiPool-Project\\Models\\CustomerModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T09:32:42.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "KoiPool-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "KoiPool-Project\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-23T14:55:04.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ApplicationUserModel.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
-              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:36:08.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T09:37:04.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T09:37:26.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T15:12:20.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\.gitignore",
-              "RelativeDocumentMoniker": "KoiPool-Project\\.gitignore",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\.gitignore",
-              "RelativeToolTip": "KoiPool-Project\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-23T13:56:10.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "20241020021925_IdentityMigration.Designer.cs",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
-              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T15:45:28.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Profile.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Profile.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Profile.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T11:28:06.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T15:03:35.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "KoiPool-Project.csproj",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\KoiPool-Project.csproj",
-              "RelativeDocumentMoniker": "KoiPool-Project\\KoiPool-Project.csproj",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\KoiPool-Project.csproj",
-              "RelativeToolTip": "KoiPool-Project\\KoiPool-Project.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T12:16:11.582Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 63,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T15:04:45.385Z"
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "KoiPool-Project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "KoiPool-Project\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-23T14:55:04.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 64,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T15:12:06.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.Development.json",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\appsettings.Development.json",
-              "RelativeToolTip": "KoiPool-Project\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T15:10:17.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "script.js",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\script.js",
-              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\script.js",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\wwwroot\\js\\script.js",
-              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\script.js",
-              "ViewState": "AgIAACUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-23T15:10:43.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "KoiPool-Project\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\Properties\\launchSettings.json",
-              "RelativeToolTip": "KoiPool-Project\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T14:56:04.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\README.md",
-              "RelativeDocumentMoniker": "KoiPool-Project\\README.md",
-              "ToolTip": "D:\\UTH\\IT\\CNPM_Project_2\\KoiPool-Project\\README.md",
-              "RelativeToolTip": "KoiPool-Project\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-23T14:55:02.551Z"
+              "Title": "ApplicationUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
+              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Models\\ApplicationUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:36:08.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T09:37:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T09:37:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:12:20.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\.gitignore",
+              "RelativeDocumentMoniker": "KoiPool-Project\\.gitignore",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\.gitignore",
+              "RelativeToolTip": "KoiPool-Project\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T13:56:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241020021925_IdentityMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
+              "RelativeToolTip": "KoiPool-Project\\Migrations\\20241020021925_IdentityMigration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:45:28.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T11:28:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:03:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "KoiPool-Project.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\KoiPool-Project.csproj",
+              "RelativeDocumentMoniker": "KoiPool-Project\\KoiPool-Project.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\KoiPool-Project.csproj",
+              "RelativeToolTip": "KoiPool-Project\\KoiPool-Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T12:16:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:04:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KoiPool-Project\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:12:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KoiPool-Project\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\appsettings.Development.json",
+              "RelativeToolTip": "KoiPool-Project\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T15:10:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "KoiPool-Project\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "KoiPool-Project\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-23T15:10:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KoiPool-Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KoiPool-Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:56:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\README.md",
+              "RelativeDocumentMoniker": "KoiPool-Project\\README.md",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u56FE\u7247\\M\u00E1y t\u00EDnh\\push\\KoiPool-Project\\README.md",
+              "RelativeToolTip": "KoiPool-Project\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-23T14:55:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
               "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "ToolTip": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T14:45:44.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 80,
               "Title": "KoiPool-Project.AssemblyInfo.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
               "ToolTip": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
-              "RelativeToolTip": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.AssemblyInfo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T14:48:37.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 79,
               "Title": "KoiPool-Project.RazorAssemblyInfo.cs",
               "DocumentMoniker": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",
               "ToolTip": "D:\\UTH\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",
-              "RelativeToolTip": "..\\..\\CNPM\\Koi_Test\\KoiPool-Project\\obj\\Debug\\net8.0\\KoiPool-Project.RazorAssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T14:45:53.034Z"
             }

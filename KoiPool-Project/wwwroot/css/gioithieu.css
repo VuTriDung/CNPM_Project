@@ -7,11 +7,8 @@
 /* Global styles */
 body {
     color: #333;
-    background-color: #f7f7f7;
     font-family: Arial, sans-serif;
 }
-
-
 /* Styles for top bar Tài khoản */
 .top-bar {
     background-color: #060606; /* Màu nền của thanh liên hệ */
@@ -233,17 +230,6 @@ nav a {
         width: 100%; /* Đảm bảo chiều rộng phủ hết ô */
     }
 
-        /* Thêm dấu gạch ngang vào trước nội dung */
-        /*.dropdown li a::before {*/
-        /* content: '___'; /* Dấu gạch ngang */
-        /*position: absolute;
-left: 0; /* Đặt dấu gạch sát hẳn về lề trái */
-        /*top: 50%;
-transform: translateY(-50%);
-color: #999;
-opacity: 0; /* Ẩn dấu gạch */
-        /*transition: transform 0.4s ease, color 0.4s ease, opacity 0.4s ease; /* Dấu gạch di chuyển mượt mà theo chữ */
-        /*}  */
 
         .dropdown li a:hover::before {
             color: #000; /* Đổi màu dấu gạch khi hover */
@@ -312,18 +298,16 @@ opacity: 0; /* Ẩn dấu gạch */
 
 
 
-/*           Phần thân trang chủ làm ở đây nha        */
+/*           Phần thân giới thiệu làm ở đây nha        */
 main {
-    width: 100%;
-    margin: auto;
-    padding-top: 20px;
+    margin-top: 130px;
 }
 
 /* Hero Section */
-.trang-chu {
+.trang-gioi-thieu {
     position: relative;
     height: 700px;
-    background-image: url('/images/H1.jpg');
+    background-image: url('/images/H7.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 8px;
@@ -332,7 +316,7 @@ main {
 }
 
     /* Vạch đen ngang to phía dưới blog */
-    .trang-chu::after {
+    .trang-gioi-thieu::after {
         content: "";
         position: absolute;
         bottom: 0;
@@ -342,7 +326,7 @@ main {
         background-color: #000; /* Màu đen */
     }
 
-.trang-chu-overlay {
+.trang-gioi-thieu-overlay {
     position: absolute;
     top: 50%;
     left: 200px;
@@ -355,364 +339,188 @@ main {
     align-items: flex-start;
 }
 
-    .trang-chu-overlay h1 {
+    .trang-gioi-thieu-overlay h1 {
         font-size: 4em;
         margin-bottom: 10px;
     }
 
-    .trang-chu-overlay p {
+    .trang-gioi-thieu-overlay p {
         font-size: 1.2em;
         opacity: 0.9;
         text-align: justify; /*Làm cân chữ*/
     }
 
-/* Phần Giới Thiệu */
-.gioi-thieu {
+/* Container Styling for About-us1 and About-us2 */
+.About-us1, .About-us2 {
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 50px 20px;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto 50px auto;
+    align-items: stretch;
+    gap: 100px;
+    padding: 50px;
 }
 
-.noi-dung-gioi-thieu {
+/* Image Animation */
+.image-About-us {
+    flex: 1;
     display: flex;
-    gap: 50px;
     align-items: center;
-}
-
-.hinh-anh-gioi-thieu img {
-    width: 400px;
-    height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.mo-ta-gioi-thieu h4 {
-    font-size: 0.9em;
-    color: #888;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-}
-
-.mo-ta-gioi-thieu h3 {
-    font-size: 2em;
-    margin-bottom: 10px;
-    color: #333;
-}
-
-.mo-ta-gioi-thieu p {
-    font-size: 1em;
-    line-height: 1.6;
-    color: #666;
-    max-width: 400px;
-}
-
-/* Phần Dịch Vụ */
-.dich-vu {
-    display: flex;
     justify-content: center;
-    padding: 50px 20px;
-    max-width: 1040px;
+    transform: scale(0.9);
+    transition: transform 0.6s ease;
 }
 
-.noi-dung-dich-vu {
-    display: flex;
-    flex-direction: column; /* Chuyển hướng cột để nội dung và nút nằm dọc */
-    align-items: center;
-    text-align: left;
-}
-
-    .noi-dung-dich-vu h4 {
-        font-size: 0.9em;
-        color: #888;
-        text-transform: uppercase;
-        margin-bottom: 8px;
-        font-weight: normal;
-    }
-
-    .noi-dung-dich-vu h2 {
-        font-size: 1.8em;
-        font-weight: bold;
-        color: #000;
-        margin: 0;
-        margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
-    }
-
-/* Nút Thiết Kế Thi Công */
-.nut-dich-vu {
-    background-color: #d3d3d3;
-    color: #333;
-    border: none;
-    padding: 16px 34px;
-    border-radius: 5px;
-    font-size: 1em;
-    cursor: pointer;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: 20px; /* Khoảng cách giữa tiêu đề và nút */
-}
-
-    .nut-dich-vu:hover {
-        background-color: #bbb;
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    }
-/* Phần Dự Án Nổi Bật */
-.du-an-noi-bat {
-    text-align: left;
-    padding: 50px 0;
-}
-
-.tieu-de-du-an {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding-bottom: 20px;
-}
-
-.tieu-de-du-an-noi-bat h4 {
-    font-size: 0.9em;
-    color: #888;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-}
-
-.tieu-de-du-an-noi-bat h2 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 0;
-}
-
-.nut-xem-them {
-    font-size: 1rem;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 20px 30px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-    .nut-xem-them:hover {
-        background-color: #555;
-    }
-
-/* Thư viện Dự Án */
-.thu-vien-du-an {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
-
-    .thu-vien-du-an img {
+    .image-About-us img {
         width: 100%;
-        height: 300px;
+        height: 100%;
         object-fit: cover;
-        border: none;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     }
 
-/* Phần Quy Trình Thực Hiện Dự Án */
-.quy-trinh-du-an {
-    text-align: center;
-    padding: 50px 20px;
-    background-color: #ffffff;
-}
-
-    .quy-trinh-du-an h4 {
-        font-size: 0.9em;
-        color: #888;
-        text-transform: uppercase;
-        margin-bottom: 1px;
-        font-weight: normal;
+    .image-About-us.active {
+        transform: scale(1);
     }
 
-    .quy-trinh-du-an h2 {
-        font-size: 2em;
-        font-weight: bold;
-        color: #333;
-        margin-bottom: 40px;
-    }
-
-/* Phần Quy Trình Các Bước */
-.quy-trinh-cac-buoc {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.buoc {
-    background-color: #e0e0e0;
-    padding: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.text-About-us {
+    flex: 1;
     display: flex;
-    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 600px;
+}
+
+    .text-About-us h1, .text-About-us h2 {
+        font-size: 2em;
+        margin-bottom: 20px;
+        color: #333;
+        transform: translateX(-20px);
+        opacity: 0;
+        transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .text-About-us p {
+        font-size: 1.1em;
+        line-height: 1.8;
+        margin-bottom: 15px;
+        text-align: justify;
+        color: #000000;
+        transform: translateY(20px);
+        opacity: 0;
+        transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .text-About-us.active h1, .text-About-us.active h2 {
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+    .text-About-us.active p {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+/*Our-Team*/
+.our-team {
+    text-align: center;
+}
+
+    .our-team h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 3rem;
+        color: #333;
+    }
+
+.team-container {
+    width: 100%;
+    max-width: 64rem;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.team-row {
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    margin-bottom: 3rem;
+}
+
+    .team-row:nth-child(2) {
+        justify-content: space-around;
+    }
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 16rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: left;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: opacity 0.6s ease, transform 0.6s ease;
 }
 
-    .buoc:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    .team-member.active {
+        transform: translateY(0);
+        opacity: 1;
     }
 
-/* Số bước lớn bên trái */
-.so-buoc {
-    font-size: 7em;
+.member-photo {
+    width: 100%;
+    height: 20rem;
+    background-color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    transition: transform 0.5s ease;
+}
+
+    .member-photo img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .member-photo:hover {
+        transform: scale(1.05);
+    }
+
+.member-name {
+    background-color: #e0e0e0;
+    width: 100%;
+    padding: 0.5rem 0;
+    font-size: 1rem;
     font-weight: bold;
-    color: #b6b82a;
-    margin-right: 20px;
-    flex-shrink: 0;
-    text-align: center;
-    line-height: 1;
-    margin-top: 20px;
-}
-
-/* Nội dung bước */
-.noi-dung-buoc {
-    flex: 1;
-}
-
-    .noi-dung-buoc h3 {
-        font-size: 1.2em;
-        font-weight: bold;
-        color: #333;
-        margin: 0;
-        margin-bottom: 10px;
-    }
-
-    .noi-dung-buoc p {
-        font-size: 0.95em;
-        color: #666;
-        line-height: 1.6;
-        margin: 0;
-    }
-/* Phần Liên Hệ với Chúng Tôi */
-.phan-lien-he {
-    background-color: #000;
-    color: #fff;
-    padding: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    flex-wrap: wrap;
-}
-
-.noi-dung-lien-he {
-    flex: 1;
-    text-align: left;
-    max-width: 900px;
-    padding-right: 20px;
-}
-
-    .noi-dung-lien-he h2 {
-        font-size: 2em;
-        margin-bottom: 5px;
-        color: #fff;
-    }
-
-    .noi-dung-lien-he p {
-        font-size: 1em;
-        color: #ccc;
-    }
-
-.nut-nhan-tu-van {
-    background-color: #fff;
+    text-transform: uppercase;
     color: #333;
-    border: none;
-    padding: 15px 30px;
-    font-size: 1em;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+}
+/* Fade-in Animation */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 2s ease, transform 0.6s ease;
 }
 
-    .nut-nhan-tu-van:hover {
-        background-color: #333;
-        color: #fff;
-        transform: scale(1.05);
+    .fade-in.active {
+        opacity: 1;
+        transform: translateY(0);
     }
 
-
-
-
-/* Phần Tin Tức Kiến Trúc Cảnh Quan */
-.phan-tin-tuc {
-    padding: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    flex-wrap: wrap;
-}
-
-.tieu-de-tin-tuc {
-    flex: 1;
-    text-align: left;
-    max-width: 900px;
-    padding-right: 20px;
-}
-
-    .tieu-de-tin-tuc h2 {
-        font-size: 2em;
-        margin-bottom: 5px;
-        color: #000;
-    }
-
-    .tieu-de-tin-tuc h4 {
-        font-size: 1em;
-    }
-
-.nut-xem-tat-ca {
-    background-color: #000000;
-    color: #ffffff;
-    border: none;
-    padding: 15px 30px;
-    font-size: 1em;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-    .nut-xem-tat-ca:hover {
-        background-color: #333;
-        transform: scale(1.05);
-    }
-/* Đáp ứng cho màn hình nhỏ */
-@media (max-width: 768px) {
-    .phan-lien-he {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .noi-dung-lien-he {
-        text-align: center;
-        padding-right: 0;
-    }
-
-    .nut-nhan-tu-van {
-        width: 100%;
-        margin-top: 20px;
-    }
-
-    .tieu-de-tin-tuc h2 {
-        font-size: 1.8em;
-    }
-
-    .nut-xem-tat-ca {
-        width: 100%;
-    }
+/* Zoom effect on hover */
+.member-photo:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s ease;
 }
 /*            HẾT              */
+
+
 
 
 

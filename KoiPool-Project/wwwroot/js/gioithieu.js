@@ -41,29 +41,17 @@ document.querySelectorAll('.navbar-dropdown').forEach(dropdown => {
         dropdownMenu.classList.remove('show');
     });
 });
-/*Dự Án */
-document.addEventListener("DOMContentLoaded", () => {
-    const projectItems = document.querySelectorAll(".project-item");
-
-    projectItems.forEach((item, index) => {
-        // Apply different animations to each item based on position
-        if (index % 4 === 0) {
-            item.classList.add("left");
-        } else if (index % 4 === 1) {
-            item.classList.add("right");
-        } else if (index % 4 === 2) {
-            item.classList.add("top");
-        } else {
-            item.classList.add("bottom");
-        }
-
-        // Add "active" class with delay for each item
-        setTimeout(() => {
-            item.classList.add("active");
-            const overlayContent = item.querySelector(".overlay-content");
-            if (overlayContent) {
-                overlayContent.classList.add("active");
+/*Phần chuyển động trong trang giới thiệu*/
+document.addEventListener("DOMContentLoaded", function () {
+    const fadeElements = document.querySelectorAll(".fade-in");
+    function handleScroll() {
+        fadeElements.forEach(element => {
+            const rect = element.getBoundingClientRect();
+            if (rect.top < window.innerHeight - 100) {
+                element.classList.add("active");
             }
-        }, index * 150); // Delay between each item
-    });
+        });
+    }
+    window.addEventListener("scroll", handleScroll);
+    handleScroll();
 });

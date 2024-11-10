@@ -10,8 +10,6 @@ body {
     background-color: #f7f7f7;
     font-family: Arial, sans-serif;
 }
-
-
 /* Styles for top bar Tài khoản */
 .top-bar {
     background-color: #060606; /* Màu nền của thanh liên hệ */
@@ -311,19 +309,17 @@ opacity: 0; /* Ẩn dấu gạch */
 
 
 
-
-/*           Phần thân trang chủ làm ở đây nha        */
+/*           Phần thân giới thiệu làm ở đây nha        */
 main {
     width: 100%;
     margin: auto;
     padding-top: 20px;
 }
-
 /* Hero Section */
-.trang-chu {
+.trang-du-an {
     position: relative;
     height: 700px;
-    background-image: url('/images/H1.jpg');
+    background-image: url('/images/H7.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 8px;
@@ -332,7 +328,7 @@ main {
 }
 
     /* Vạch đen ngang to phía dưới blog */
-    .trang-chu::after {
+    .trang-du-an::after {
         content: "";
         position: absolute;
         bottom: 0;
@@ -342,7 +338,7 @@ main {
         background-color: #000; /* Màu đen */
     }
 
-.trang-chu-overlay {
+.trang-du-an-overlay {
     position: absolute;
     top: 50%;
     left: 200px;
@@ -355,364 +351,157 @@ main {
     align-items: flex-start;
 }
 
-    .trang-chu-overlay h1 {
+    .trang-du-an-overlay h1 {
         font-size: 4em;
         margin-bottom: 10px;
     }
 
-    .trang-chu-overlay p {
+    .trang-du-an-overlay p {
         font-size: 1.2em;
         opacity: 0.9;
         text-align: justify; /*Làm cân chữ*/
     }
 
-/* Phần Giới Thiệu */
-.gioi-thieu {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 50px 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.noi-dung-gioi-thieu {
-    display: flex;
-    gap: 50px;
-    align-items: center;
-}
-
-.hinh-anh-gioi-thieu img {
-    width: 400px;
-    height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.mo-ta-gioi-thieu h4 {
-    font-size: 0.9em;
-    color: #888;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-}
-
-.mo-ta-gioi-thieu h3 {
-    font-size: 2em;
-    margin-bottom: 10px;
-    color: #333;
-}
-
-.mo-ta-gioi-thieu p {
-    font-size: 1em;
-    line-height: 1.6;
-    color: #666;
-    max-width: 400px;
-}
-
-/* Phần Dịch Vụ */
-.dich-vu {
-    display: flex;
-    justify-content: center;
-    padding: 50px 20px;
-    max-width: 1040px;
-}
-
-.noi-dung-dich-vu {
-    display: flex;
-    flex-direction: column; /* Chuyển hướng cột để nội dung và nút nằm dọc */
-    align-items: center;
-    text-align: left;
-}
-
-    .noi-dung-dich-vu h4 {
-        font-size: 0.9em;
-        color: #888;
-        text-transform: uppercase;
-        margin-bottom: 8px;
-        font-weight: normal;
-    }
-
-    .noi-dung-dich-vu h2 {
-        font-size: 1.8em;
-        font-weight: bold;
-        color: #000;
-        margin: 0;
-        margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
-    }
-
-/* Nút Thiết Kế Thi Công */
-.nut-dich-vu {
-    background-color: #d3d3d3;
-    color: #333;
-    border: none;
-    padding: 16px 34px;
-    border-radius: 5px;
-    font-size: 1em;
-    cursor: pointer;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: 20px; /* Khoảng cách giữa tiêu đề và nút */
-}
-
-    .nut-dich-vu:hover {
-        background-color: #bbb;
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    }
-/* Phần Dự Án Nổi Bật */
-.du-an-noi-bat {
-    text-align: left;
-    padding: 50px 0;
-}
-
-.tieu-de-du-an {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding-bottom: 20px;
-}
-
-.tieu-de-du-an-noi-bat h4 {
-    font-size: 0.9em;
-    color: #888;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-}
-
-.tieu-de-du-an-noi-bat h2 {
-    font-size: 2em;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 0;
-}
-
-.nut-xem-them {
-    font-size: 1rem;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 20px 30px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-    .nut-xem-them:hover {
-        background-color: #555;
-    }
-
-/* Thư viện Dự Án */
-.thu-vien-du-an {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    margin: 0;
-    padding: 0;
+/* Reset CSS */
+main {
     width: 100%;
-}
-
-    .thu-vien-du-an img {
-        width: 100%;
-        height: 300px;
-        object-fit: cover;
-        border: none;
-    }
-
-/* Phần Quy Trình Thực Hiện Dự Án */
-.quy-trinh-du-an {
+    max-width: 1200px;
+    margin: auto;
     text-align: center;
-    padding: 50px 20px;
-    background-color: #ffffff;
 }
 
-    .quy-trinh-du-an h4 {
-        font-size: 0.9em;
-        color: #888;
-        text-transform: uppercase;
-        margin-bottom: 1px;
-        font-weight: normal;
-    }
-
-    .quy-trinh-du-an h2 {
-        font-size: 2em;
-        font-weight: bold;
-        color: #333;
-        margin-bottom: 40px;
-    }
-
-/* Phần Quy Trình Các Bước */
-.quy-trinh-cac-buoc {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.buoc {
-    background-color: #e0e0e0;
-    padding: 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    display: flex;
-    align-items: flex-start;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-align: left;
-}
-
-    .buoc:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    }
-
-/* Số bước lớn bên trái */
-.so-buoc {
-    font-size: 7em;
-    font-weight: bold;
-    color: #b6b82a;
-    margin-right: 20px;
-    flex-shrink: 0;
-    text-align: center;
-    line-height: 1;
+/* Phần Dự Án Nổi Bật */
+.du-an {
     margin-top: 20px;
 }
 
-/* Nội dung bước */
-.noi-dung-buoc {
-    flex: 1;
-}
-
-    .noi-dung-buoc h3 {
-        font-size: 1.2em;
+    .du-an h1 {
+        text-align: left;
+        font-size: 1.5rem;
         font-weight: bold;
-        color: #333;
-        margin: 0;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
-    .noi-dung-buoc p {
-        font-size: 0.95em;
-        color: #666;
-        line-height: 1.6;
-        margin: 0;
-    }
-/* Phần Liên Hệ với Chúng Tôi */
-.phan-lien-he {
-    background-color: #000;
-    color: #fff;
-    padding: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+/* Thư viện Dự Án */
+.san-pham-du-an {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin: auto;
     width: 100%;
-    flex-wrap: wrap;
 }
 
-.noi-dung-lien-he {
-    flex: 1;
-    text-align: left;
-    max-width: 900px;
-    padding-right: 20px;
+.project-item {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 1s ease, transform 1s ease;
 }
 
-    .noi-dung-lien-he h2 {
-        font-size: 2em;
-        margin-bottom: 5px;
-        color: #fff;
+    .project-item img {
+        width: 100%;
+        height: 360px;
+        object-fit: cover;
+        border-radius: 2px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
     }
 
-    .noi-dung-lien-he p {
-        font-size: 1em;
-        color: #ccc;
-    }
-
-.nut-nhan-tu-van {
-    background-color: #fff;
-    color: #333;
-    border: none;
-    padding: 15px 30px;
-    font-size: 1em;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-    .nut-nhan-tu-van:hover {
-        background-color: #333;
-        color: #fff;
-        transform: scale(1.05);
-    }
-
-
-
-
-/* Phần Tin Tức Kiến Trúc Cảnh Quan */
-.phan-tin-tuc {
-    padding: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    flex-wrap: wrap;
-}
-
-.tieu-de-tin-tuc {
-    flex: 1;
-    text-align: left;
-    max-width: 900px;
-    padding-right: 20px;
-}
-
-    .tieu-de-tin-tuc h2 {
-        font-size: 2em;
-        margin-bottom: 5px;
-        color: #000;
-    }
-
-    .tieu-de-tin-tuc h4 {
-        font-size: 1em;
-    }
-
-.nut-xem-tat-ca {
-    background-color: #000000;
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.75);
     color: #ffffff;
-    border: none;
-    padding: 15px 30px;
-    font-size: 1em;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    padding: 20px;
+    text-align: left;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
-    .nut-xem-tat-ca:hover {
-        background-color: #333;
-        transform: scale(1.05);
+    .overlay h3 {
+        text-align: center;
+        font-size: 1.8rem;
+        margin-bottom: 8px;
     }
-/* Đáp ứng cho màn hình nhỏ */
+
+    .overlay p {
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 2px;
+        color: #f1f1f1;
+    }
+
+.project-item:hover .overlay {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.project-item.active .overlay-content {
+    transform: translateY(0);
+    opacity: 1;
+}
+/* Hiệu ứng phóng to khi di chuột */
+.project-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Hiệu ứng di chuyển từ các hướng khác nhau */
+.project-item.left {
+    transform: translateX(-50px);
+}
+
+.project-item.right {
+    transform: translateX(50px);
+}
+
+.project-item.top {
+    transform: translateY(-50px);
+}
+
+.project-item.bottom {
+    transform: translateY(50px);
+}
+
+.project-item.active {
+    opacity: 1;
+    transform: translateX(0) translateY(0);
+}
+/* Màn hình nhỏ hơn 1024px (Tablet) */
+@media (max-width: 1024px) {
+    .san-pham-du-an {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .project-item img {
+        height: 250px;
+    }
+}
+
+/* Màn hình nhỏ hơn 768px (Mobile) */
 @media (max-width: 768px) {
-    .phan-lien-he {
-        flex-direction: column;
-        text-align: center;
+    .san-pham-du-an {
+        grid-template-columns: 1fr;
     }
 
-    .noi-dung-lien-he {
-        text-align: center;
-        padding-right: 0;
+    .project-item img {
+        height: 200px;
     }
 
-    .nut-nhan-tu-van {
-        width: 100%;
-        margin-top: 20px;
-    }
-
-    .tieu-de-tin-tuc h2 {
-        font-size: 1.8em;
-    }
-
-    .nut-xem-tat-ca {
-        width: 100%;
+    .du-an h1 {
+        font-size: 1.2rem;
+        margin-bottom: 15px;
     }
 }
 /*            HẾT              */
+
+
 
 
 

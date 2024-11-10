@@ -13,6 +13,14 @@ namespace KoiPool_Project.Controllers
             _logger = logger;
         }
 
+        public IActionResult GioiThieu()
+        {
+            return View();
+        }
+        public IActionResult DuAn()
+        {
+            return View();
+        }
         public IActionResult DichVu()
         {
             return View();
